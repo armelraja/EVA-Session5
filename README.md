@@ -7,4 +7,3 @@ Include:
 <ol>ReLU after BN</ol>
 <ol>Run  for 40 epochs and save the model with highest validation accuracy</ol>
 <ol>Find out 25 misclassified images from the validation dataset and create an image gallery</ol>
-<ol>Submit</ol>
